@@ -211,8 +211,4 @@ Youtube频道：<https://www.youtube.com/channel/UCYTB--VsObzepVJtc9yvUxQ>
 
 [Google Scholar/谷歌学术403: your client does not have permission to get URL或者we’re sorry的解决办法](https://v2raytech.com/google-scholar-403-error-solution/)
 
-## 捐赠
 
-BTC: 1ND1Gg7oEQCNVPyHVoAaq1sM9Ee3XLJZQG
-
-ETH: 0x3921dc87110467324A01e1113E6aFa3c8DCD865D
